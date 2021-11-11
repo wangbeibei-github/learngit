@@ -1,1 +1,1 @@
-get is a version control systm
+git is a version control systm
